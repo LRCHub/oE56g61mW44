@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Isn't She Lovely",
+  "base_artist": "Stevie Wonder",
+  "createdAt": "2026-03-01T00:45:30.732985Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Isn't She Lovely",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/01_Isn't_She_Lovely_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Isn't She Lovely - Edit",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/02_Isn't_She_Lovely_-_Edit_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Isn't She Lovely",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/03_Isn't_She_Lovely_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Isn't She Lovely",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/04_Isn't_She_Lovely_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Isn't She Lovely (Glee Cast Version)",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/05_Isn't_She_Lovely_(Glee_Cast_Version)_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Isn't She Lovely (Album Version)",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/06_Isn't_She_Lovely_(Album_Version)_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Isn't She Lovely",
+      "artist": "David Parton",
+      "has_synced": false,
+      "path": "select/07_Isn't_She_Lovely_David_Parton.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Isn't She Lovely",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/08_Isn't_She_Lovely_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Isn't She Lovely",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/09_Isn't_She_Lovely_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Isn't She Lovely",
+      "artist": "Lee Ritenour",
+      "has_synced": true,
+      "path": "select/10_Isn't_She_Lovely_Lee_Ritenour.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Isn't She Lovely",
+      "artist": "Lee Ritenour",
+      "has_synced": false,
+      "path": "select/11_Isn't_She_Lovely_Lee_Ritenour.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Isn't She Lovely",
+      "artist": "David Sanborn",
+      "has_synced": false,
+      "path": "select/12_Isn't_She_Lovely_David_Sanborn.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Isnt She Lovely",
+      "artist": "David Sanborn",
+      "has_synced": false,
+      "path": "select/13_Isnt_She_Lovely_David_Sanborn.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Isn't She Lovely",
+      "artist": "Art Pepper",
+      "has_synced": false,
+      "path": "select/14_Isn't_She_Lovely_Art_Pepper.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Isn't She Lovely",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/15_Isn't_She_Lovely_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Isn't She Lovely",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/16_Isn't_She_Lovely_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Isn't She Lovely",
+      "artist": "Stevie Wonder",
+      "has_synced": false,
+      "path": "select/pl_01_Isn't_She_Lovely_Stevie_Wonder.txt"
+    }
+  ]
+}
